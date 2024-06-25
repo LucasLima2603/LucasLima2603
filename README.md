@@ -1,4 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 👋
+
+* Meu nome é **Lucas Lima**
+
+* Sou aluno de tecnologia e inovação.
+* Estou participando de um curso com base na linguagem javascript na biblioteca p5js.
+* Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula. 
+
+## Meu contato
+* 00001081361104sp@al.educacao.sp.gov.br
 
 <!--
 **LucasLima2603/LucasLima2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
