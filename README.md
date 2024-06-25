@@ -6,7 +6,7 @@
 * Estou participando de um curso com base na linguagem javascript na biblioteca p5js.
 * Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula. 
 
-## Meu contato
+## Meu contato :📫
 * 00001081361104sp@al.educacao.sp.gov.br
 
 <!--
